@@ -1,0 +1,3 @@
+<div class="jumbotron">
+  <h2>The supplied UUID (<%= @uuid %>) was invalid!</h2>
+</div>
